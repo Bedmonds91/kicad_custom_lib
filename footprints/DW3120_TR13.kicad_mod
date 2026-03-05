@@ -623,7 +623,7 @@
 		(uuid "fa897383-8268-429b-9b3e-479a1c915bbb")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/DW3120_TR13.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/DW3120_TR13.step"
 		(offset
 			(xyz 0 0 0)
 		)

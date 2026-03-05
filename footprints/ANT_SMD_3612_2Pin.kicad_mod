@@ -184,7 +184,7 @@
 		(uuid "e9171b58-7873-46da-9ef2-d68c1aa5146f")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/CHIP_ANT_3.6x1.2.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/CHIP_ANT_3.6x1.2.step"
 		(offset
 			(xyz 0 0 0)
 		)

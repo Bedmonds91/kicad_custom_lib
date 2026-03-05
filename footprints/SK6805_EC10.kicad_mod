@@ -197,7 +197,7 @@
 		(uuid "6655d74a-b04f-4e51-9eee-c3a77010dc93")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/SK6805_EC10.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/SK6805_EC10.step"
 		(offset
 			(xyz 0 0 0)
 		)

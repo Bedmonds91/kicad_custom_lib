@@ -448,7 +448,7 @@
 		(uuid "7eba39f6-a664-4439-a65e-5230f076bcd6")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/MAX86178_ENJ.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/MAX86178_ENJ.step"
 		(offset
 			(xyz 0 0 0)
 		)

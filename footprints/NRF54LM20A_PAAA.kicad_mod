@@ -1788,7 +1788,7 @@
 		(uuid "83c64b06-80a5-4f47-8add-7766f6564771")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/NRF54LM20_PAAA.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/NRF54LM20_PAAA.step"
 		(offset
 			(xyz 0 0 0)
 		)

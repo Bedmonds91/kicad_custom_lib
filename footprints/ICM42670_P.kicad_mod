@@ -640,7 +640,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/ICM42670_P.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/ICM42670_P.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -280,7 +280,7 @@
 		(uuid "43d15ea4-a37a-4a7a-8c68-7290bac0bf5e")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/FXLP34FHX.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/FXLP34FHX.step"
 		(offset
 			(xyz 0 0 0)
 		)

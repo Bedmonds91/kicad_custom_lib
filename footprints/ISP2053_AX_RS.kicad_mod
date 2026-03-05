@@ -1624,7 +1624,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/ISP2053_AX_RS.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/ISP2053_AX_RS.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -746,7 +746,7 @@
 		(uuid "e8eafe6e-6957-46e8-ba5c-c93ecb70c523")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/NPM1300_CAAA.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/NPM1300_CAAA.step"
 		(offset
 			(xyz 0 0 0)
 		)

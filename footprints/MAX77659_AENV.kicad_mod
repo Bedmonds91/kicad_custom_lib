@@ -332,7 +332,7 @@
 		(uuid "d4fe23d5-2307-4d90-a57d-e32e3716f709")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/MAX77659_AENV.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/MAX77659_AENV.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -632,7 +632,7 @@
 		(uuid "e9cb0412-975a-45d2-9a7a-b0b0dfa5ebaf")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/DRV2605_YZFR.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/DRV2605_YZFR.step"
 		(offset
 			(xyz 0 0 0)
 		)

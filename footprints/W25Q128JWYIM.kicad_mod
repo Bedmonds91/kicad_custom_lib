@@ -365,7 +365,7 @@
 		(uuid "0e92fcbd-7c28-4d5a-8e38-297f80eb2eea")
 	)
 	(embedded_fonts no)
-	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/W25Q128JWY.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/W25Q128JWY.step"
 		(offset
 			(xyz 0 0 0)
 		)
