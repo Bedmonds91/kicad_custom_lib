@@ -1,4 +1,4 @@
-(footprint "DW3120_TR13"
+(footprint "QM33120W"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -17,7 +17,7 @@
 			(justify bottom)
 		)
 	)
-	(property "Value" "DW3120TR13"
+	(property "Value" "QM33120"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -623,7 +623,7 @@
 		(uuid "fa897383-8268-429b-9b3e-479a1c915bbb")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libraries/custom_lib/3d/DW3120_TR13.step"
+	(model "${KIPRJMOD}/libraries/custom_lib/3d/QM33120W.step"
 		(offset
 			(xyz 0 0 0)
 		)
