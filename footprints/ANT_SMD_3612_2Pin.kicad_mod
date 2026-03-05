@@ -1,0 +1,198 @@
+(footprint "ANT_SMD_3612_2Pin"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2352e1b5-4d8d-4eec-a616-051c2cc6ceff")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.0625)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "ANT_SMD_3612_2Pin"
+		(at 0 1.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c5862c82-65a7-46c5-9552-ed9b9ffec2f7")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.0625)
+			)
+			(justify top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ddbc56a-455e-4197-b4de-60a0169e1fe4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "061c6948-4efa-4cb7-ba5f-6bd58a4eaba7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.2 -1.09)
+		(end 1.6 -1.09)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1971242a-bdaf-43e4-81aa-21f0b4ab8a75")
+	)
+	(fp_line
+		(start -2.2 1.09)
+		(end -2.2 -1.09)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85841540-2e16-4413-b820-b01ea597d19a")
+	)
+	(fp_line
+		(start -2.2 1.09)
+		(end 1.6 1.09)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0aa3e2f2-3c9a-4ccb-8ce8-65c110bed4a5")
+	)
+	(fp_line
+		(start -2.3 -1.16)
+		(end 2.2 -1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "083429a1-bdb4-43af-a99b-ad7d17bf8b6f")
+	)
+	(fp_line
+		(start -2.3 1.16)
+		(end -2.3 -1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "257bdd4e-bad1-4ecf-958e-ffb92b41f594")
+	)
+	(fp_line
+		(start 2.2 -1.16)
+		(end 2.2 1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75f4ebd4-9c3d-4120-b9a7-d2cced61dcce")
+	)
+	(fp_line
+		(start 2.2 1.16)
+		(end -2.3 1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "98ae2d84-015b-41d4-b2ad-5830f9ca5a19")
+	)
+	(fp_line
+		(start -1.7 -0.9)
+		(end 1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "30743ef2-8b91-416a-8a24-a27282b4bc9d")
+	)
+	(fp_line
+		(start -1.7 0.9)
+		(end -1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "365318ce-5aee-4d47-81c0-b4ff061bd9a0")
+	)
+	(fp_line
+		(start 1.7 -0.9)
+		(end 1.7 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a5820292-0ec2-4ea6-9354-02beab02e852")
+	)
+	(fp_line
+		(start 1.7 0.9)
+		(end -1.7 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8b9b2612-aadf-4426-aed2-25b4a515207a")
+	)
+	(pad "1" smd roundrect
+		(at -1.46 0 180)
+		(size 1.2 1.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "3938f9e1-aff8-448f-977c-4b27dec8ad2a")
+	)
+	(pad "2" smd roundrect
+		(at 1.46 0 180)
+		(size 1.2 1.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "e9171b58-7873-46da-9ef2-d68c1aa5146f")
+	)
+	(embedded_fonts no)
+	(model "/Users/bedmonds/Developer/tooling/kicad/custom_parts/3d/CHIP_ANT_3.6x1.2.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
